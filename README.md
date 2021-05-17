@@ -1,5 +1,4 @@
 ## XMPP Sensor Client Application
-<hr>
 
 This is a simple Sensor Client Application which can be used to communicate with [OpenWeatherMapSensor](https://github.com/PeterWaher/OpenWeatherMapSensor) or any other IoT Sensor which supports [IEEE P1451.99](https://gitlab.com/IEEE-SA/XMPPI/IoT).
 
